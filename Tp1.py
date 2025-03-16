@@ -30,3 +30,4 @@ moyenne_prix_par_etages = df.groupby('stories')['price'].mean()
 # Afficher les résultats
 print("Moyenne des prix en fonction du nombre d'étages :")
 print(moyenne_prix_par_etages)
+print("fuk l3alam")
